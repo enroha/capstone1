@@ -43,7 +43,7 @@ const App = () => {
       />
 
       <Row
-        title="DQ's Pick"
+        title="Today's Pick"
         id="DP"
         fetchUrl={requests.fetchDQsPick}
         addRating={addRating}
