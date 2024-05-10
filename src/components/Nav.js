@@ -20,7 +20,7 @@ const Nav = () => {
   return (
     <nav className={`nav ${show && "nav__black"}`}>
       <img
-        alt="DQflex logo"
+        alt="logo"
         src="https://i.ibb.co/svtr2tD/dqflex-logo.png"
         className="nav__logo"
       />
